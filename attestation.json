@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorfuji",
+  "repo": "NDesumeur/neodex-plugin-decor-fuji",
+  "version": "1.0.0",
+  "sha256": "35a6ec315db01dad088dc4ba9f1fb47cc6c9a9bc617c8a161d7515f65e1d2fe7",
+  "approvedAt": "2026-11-22T19:05:25.744Z",
+  "neobase": ">=4.1.0",
+  "signature": "DnvAQ6MvjJ8LZfhbtFB/bNScjBipU48IWEZ9Nw6KK46xxC3Qf0S6aNs9+THkWzPrWZjql1Xz12042IwY5PvKCQ=="
+}
